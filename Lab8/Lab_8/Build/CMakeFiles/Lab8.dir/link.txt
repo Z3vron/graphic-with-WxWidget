@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread  -rdynamic CMakeFiles/Lab8.dir/GUIMyFrameMyFrame1.cpp.o CMakeFiles/Lab8.dir/Lab08.cpp.o CMakeFiles/Lab8.dir/MyVeryOwnClass.cpp.o  -o Lab8   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_core-3.0 -lwx_baseu-3.0 -lfreeimage -lX11 

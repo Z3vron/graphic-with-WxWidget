@@ -1,0 +1,3 @@
+/home/andrzej/Programming/WxWidgets/Programs/Lab5/Lab_5/Build/CMakeFiles/rebuild_cache.dir
+/home/andrzej/Programming/WxWidgets/Programs/Lab5/Lab_5/Build/CMakeFiles/edit_cache.dir
+/home/andrzej/Programming/WxWidgets/Programs/Lab5/Lab_5/Build/CMakeFiles/Lab5.dir

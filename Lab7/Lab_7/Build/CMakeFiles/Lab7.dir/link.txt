@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread  -rdynamic CMakeFiles/Lab7.dir/GUI.cpp.o CMakeFiles/Lab7.dir/GUIMyFrame1.cpp.o CMakeFiles/Lab7.dir/draw_map.cpp.o CMakeFiles/Lab7.dir/main.cpp.o  -o Lab7   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_core-3.0 -lwx_baseu-3.0 
